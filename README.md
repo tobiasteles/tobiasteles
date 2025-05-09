@@ -32,7 +32,7 @@ De **professor de física** a **desenvolvedor web**, estou construindo pontes en
 ✨ **Destaque:** Design minimalista e formulário de contato integrado  
 
 [![Banco de Pontos](https://img.shields.io/badge/Educação_Khan-32CD32?style=for-the-badge&logo=open-source-initiative&logoColor=white)](https://bancodepontosedukhan.netlify.app/)  
-📝 **Ferramenta educacional** com questões do estilo ENEM  
+📝 **Ferramenta educacional** para gerenciar pontos dos alunos do Edukhan
 🔧 **Funcionalidade:** Filtros dinâmicos e organização por matérias  
 
 ---  
