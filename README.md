@@ -1,6 +1,4 @@
-# Olá! Eu sou o Tobias Teles 👨💻
-
-  
+# Tobias Teles 👨💻  
 #### *Desenvolvedor Web em Transição | Ex-Professor de Física Criando Soluções Digitais*  
 
 ---  
@@ -33,9 +31,9 @@ De **professor de física** a **desenvolvedor web**, estou construindo pontes en
 🧠 **Site profissional** para psicólogo clínico  
 ✨ **Destaque:** Design minimalista e formulário de contato integrado  
 
-[![Banco de Pontos](https://img.shields.io/badge/Banco de Pontos-32CD32?style=for-the-badge&logo=open-source-initiative&logoColor=white)](https://bancodepontosedukhan.netlify.app/)  
-📝 **Ferramenta educacional** para gerenciar a pontuação dos alunos do Edukhan 
-🔧 **Funcionalidade:** Filtros dinâmicos
+[![Banco de Pontos](https://img.shields.io/badge/Educação_Khan-32CD32?style=for-the-badge&logo=open-source-initiative&logoColor=white)](https://bancodepontosedukhan.netlify.app/)  
+📝 **Ferramenta educacional** com questões do estilo ENEM  
+🔧 **Funcionalidade:** Filtros dinâmicos e organização por matérias  
 
 ---  
 
