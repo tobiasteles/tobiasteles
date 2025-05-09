@@ -5,8 +5,7 @@
 
 ### 🧭 Minha Jornada  
 De **professor de física** a **desenvolvedor web**, estou construindo pontes entre a lógica científica e o código.  
-- 🎓 **Background:** 10+ anos ensinando física, agora aplicando essa didática em interfaces web.  
-- 🌱 **Atualmente aprendendo:** React, Node.js e UX Design.  
+- 🌱 **Atualmente aprendendo:** Next.js 15 App Router, React, Tailwind, Prisma, MySQL. 
 - 🛠 **Foco:** Criar sites funcionais e acessíveis para negócios e educação.  
 
 ---  
