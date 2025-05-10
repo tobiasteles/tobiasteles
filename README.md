@@ -1,4 +1,4 @@
-# Tobias Teles 👨💻  
+# Tobias Teles 💻  
 #### *Desenvolvedor Web em Transição | Ex-Professor de Física Criando Soluções Digitais*  
 
 ---  
