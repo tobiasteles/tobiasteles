@@ -36,7 +36,7 @@ From **physics equations** to **elegant code**, transforming logic into impactfu
 
 #### Edukhan E-commerce (Social Impact)  
 [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ecommerce-store-edukhan.vercel.app/)  
-[![GitHub Repo](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tobiasteles/ecommerce-store)  
+[![GitHub Repo](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tobiasteles/ecommerce-store-edukhan)  
 
 🛒 **Social Commerce Platform**  
 ✨ **Mission:** Generate profits to fund student scholarships  
