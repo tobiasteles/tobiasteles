@@ -1,13 +1,13 @@
 # Tobias Teles 💻  
-#### *Full Stack Developer | Former Physics Teacher Building Digital Solutions*  
+#### *Full Stack Developer*  
 
 ---  
 
 ### 🚀 My Journey  
-From **physics equations** to **elegant code**, transforming logic into impactful digital experiences.  
+ Transforming logic into impactful digital experiences.  
 - 🌱 **Currently Mastering:** Next.js 15 App Router, Advanced React Patterns
 - 🛠 **Core Stack:** Next.js, React, Tailwind, Prisma, Supabase, Stripe
-- 🔥 **Also Skilled In:** HTML, CSS, JavaScript, Firebase, Netlify
+- 🔥 **Also Skilled In:** HTML, CSS, JavaScript, Typescript, Firebase, Netlify
 
 ---  
 
@@ -31,21 +31,6 @@ From **physics equations** to **elegant code**, transforming logic into impactfu
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://www.netlify.com)  
 
 ---  
-
-### 🌟 Featured Projects  
-
-#### Edukhan E-commerce (Social Impact)  
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ecommerce-store-edukhan.vercel.app/)  
-[![GitHub Repo](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tobiasteles/ecommerce-store-edukhan)  
-
-🛒 **Social Commerce Platform**  
-✨ **Mission:** Generate profits to fund student scholarships  
-🚀 **Stack:** Next.js App Router, Prisma, Stripe, Tailwind, TypeScript  
-✅ **Key Features:**  
-- Full-featured cart & checkout flow  
-- Product filtering by category  
-- Responsive mobile-first design  
-- Secure payment processing  
 
 #### Client Websites:  
 
@@ -88,4 +73,4 @@ From **physics equations** to **elegant code**, transforming logic into impactfu
 
 ---  
 
-✨ **Transforming commerce into classrooms - one line of code at a time!**  
+
