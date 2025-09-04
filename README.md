@@ -49,7 +49,7 @@
 ---  
 
 ### 🌐 Portfolio  
-[![Portfolio](https://img.shields.io/badge/Check_My_Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tobiasteles.vercel.app)  
+[![Portfolio](https://img.shields.io/badge/Check_My_Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tobiasteles.netlify.app/)  
 *(Now featuring Next.js + Supabase projects!)*  
 
 ---  
