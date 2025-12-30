@@ -54,9 +54,9 @@
 
 ---  
 
-### 🏆 GitHub Trophies
+### 🔥 GitHub Streak Stats
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tobiasteles&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com?user=tobiasteles&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
 </div>
 
 ---
