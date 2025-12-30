@@ -54,11 +54,17 @@
 
 ---  
 
-### 🔥 GitHub Streak Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tobiasteles&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
-</div>
+### 📈 GitHub Activity & Stats
 
+<div align="center">
+  
+  <!-- Seu streak de contribuições -->
+  <img src="https://streak-stats.demolab.com?user=tobiasteles&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  
+  <!-- Seus troféus -->
+  <img src="https://github-profile-trophy.vercel.app/?username=tobiasteles&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+</div>
 ---
 
 ### 📫 Connect With Me  
