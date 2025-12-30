@@ -54,14 +54,11 @@
 
 ---  
 
-### 📈 GitHub Stats & Top Languages
-
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tobiasteles&show_icons=true&theme=transparent&hide_border=true&hide_title=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasteles&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-tobias-projects-a9e4b286.vercel.app/api?username=tobiasteles&show_icons=true&theme=transparent&hide_border=true&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-tobias-projects-a9e4b286.vercel.app/api/top-langs/?username=tobiasteles&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
----  
 
 ### 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tobias_Teles-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-teles/)  
