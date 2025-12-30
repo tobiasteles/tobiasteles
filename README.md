@@ -56,33 +56,10 @@
 
 ### 📈 GitHub Stats & Top Languages
 
+### 📈 GitHub Stats
 <div align="center">
-
-<!-- Dynamic theme cards that switch based on viewer's GitHub theme -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=tobiasteles&show_icons=true&theme=dark&hide_border=true&hide_title=true&show=reviews,prs_merged"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=tobiasteles&show_icons=true&theme=default&hide_border=true&hide_title=true&show=reviews,prs_merged"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=tobiasteles&show_icons=true&hide_border=true&hide_title=true&show=reviews,prs_merged" alt="GitHub Stats" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasteles&layout=compact&theme=dark&hide_border=true&langs_count=8"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasteles&layout=compact&theme=default&hide_border=true&langs_count=8"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasteles&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
-</picture>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=tobiasteles&show_icons=true&theme=transparent&hide_border=true&hide_title=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasteles&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 ---  
 
