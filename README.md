@@ -50,9 +50,9 @@ Plataforma educacional para serviços de tutoria personalizada.
 <div align="center">
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tobiasteles&show_icons=true&theme=dark&hide_border=true&title_color=06B6D4&icon_color=06B6D4&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="400" height="400" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tobiasteles&layout=compact&theme=dark&hide_border=true&title_color=06B6D4&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tobiasteles&layout=compact&theme=dark&hide_border=true&title_color=06B6D4&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="400" height="400" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tobiasteles&theme=dark&hide_border=true&stroke=06B6D4&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tobiasteles&theme=dark&hide_border=true&stroke=06B6D4&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" alt="GitHub Streak" width="400" height="400" />
 
 </div>
 
