@@ -48,13 +48,11 @@ Plataforma educacional para serviços de tutoria personalizada.
 
 ### 📊 GitHub Stats
 <div align="center">
+<img src="https://metrics.lecoq.io/tobiasteles?template=classic&base.header=0&base.activity=0&base.community=0&repositories=0&metadata=0&config.timezone=America%2FSao_Paulo" alt="GitHub Metrics" width="400" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=tobiasteles&show_icons=true&theme=dark&hide_border=true&title_color=06B6D4&icon_color=06B6D4&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasteles&layout=compact&theme=dark&hide_border=true&title_color=06B6D4&text_color=ffffff&bg_color=0d1117&cache_seconds=1800" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tobiasteles&theme=dark&hide_border=true&stroke=06B6D4&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasteles&layout=compact&theme=dark&hide_border=true&title_color=06B6D4&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
-
 </div>
 
 ---
