@@ -69,40 +69,40 @@ Minha formação em Física (UnB) me deu base analítica para resolver problemas
   <tr>
     <td width="300" align="center">
       <a href="https://prova.edukhan.ong.br/">
-        <img src="COLE_AQUI_LINK_DA_IMAGEM_EDUKHAN_AVALIACOES" alt="Edukhan Avaliações" width="280" />
+        <img src="https://i.imgur.com/NHXer9E.png" alt="Edukhan Avaliações" width="280" />
       </a>
     </td>
     <td>
       <h4>📝 Edukhan Avaliações</h4>
       Sistema web para gestão e aplicação de avaliações educacionais da ONG Edukhan, com autenticação via Clerk, painel administrativo com React Admin e formulários com validação rigorosa.<br/><br/>
       <b>Stack:</b> Next.js · React · TypeScript · Tailwind · Clerk · Drizzle ORM · Neon DB · React Admin · Zod · React Hook Form<br/><br/>
-      <a href="https://prova.edukhan.ong.br/">🔗 Ver online</a> · <a href="COLE_AQUI_LINK_DO_GITHUB_EDUKHAN_AVALIACOES">💻 Código</a>
+      <a href="https://prova.edukhan.ong.br/">🔗 Ver online</a> · <a href="https://github.com/tobiasteles/edukhan-avaliacoes.git">💻 Código</a>
     </td>
   </tr>
   <tr>
     <td width="300" align="center">
       <a href="https://miravita-three.vercel.app/">
-        <img src="https://miravita-three.vercel.app/avatars/class_fisica_03.png" alt="Miravita" width="280" />
+        <img src="https://i.imgur.com/mILBMh7.png" alt="Miravita" width="280" />
       </a>
     </td>
     <td>
       <h4>🎮 Miravita</h4>
       MMORPG jogável no navegador que integra elementos pedagógicos a um universo de fantasia, com classes inspiradas em disciplinas escolares, itens e hierarquias baseados na tabela periódica e inteligência artificial integrada.<br/><br/>
       <b>Stack:</b> Next.js · React · TypeScript · Tailwind · Clerk · Drizzle ORM · Neon DB · Google GenAI SDK<br/><br/>
-      <a href="https://miravita-three.vercel.app/">🔗 Ver online</a> · <a href="COLE_AQUI_LINK_DO_GITHUB_MIRAVITA">💻 Código</a>
+      <a href="https://miravita-three.vercel.app/">🔗 Ver online</a> · <a href="https://github.com/tobiasteles/miravita.git">💻 Código</a>
     </td>
   </tr>
   <tr>
     <td width="300" align="center">
       <a href="https://ecobazar-drab.vercel.app/">
-        <img src="https://ecobazar-drab.vercel.app/logo.jpeg" alt="EcoBazar" width="280" />
+        <img src="https://i.imgur.com/3TSn4Hl.png" alt="EcoBazar" width="280" />
       </a>
     </td>
     <td>
       <h4>🌱 EcoBazar</h4>
       Plataforma de e-commerce e comércio sustentável, com gestão de catálogo de produtos, visualização analítica de dados com gráficos interativos e banco de dados serverless.<br/><br/>
       <b>Stack:</b> Next.js · React · TypeScript · Tailwind · Drizzle ORM · Neon DB · TanStack Query · Recharts · Shadcn UI<br/><br/>
-      <a href="https://ecobazar-drab.vercel.app/">🔗 Ver online</a> · <a href="COLE_AQUI_LINK_DO_GITHUB_ECOBAZAR">💻 Código</a>
+      <a href="https://ecobazar-drab.vercel.app/">🔗 Ver online</a> · <a href="https://github.com/tobiasteles/ecobazar">💻 Código</a>
     </td>
   </tr>
   <tr>
@@ -115,7 +115,7 @@ Minha formação em Física (UnB) me deu base analítica para resolver problemas
       <h4>💰 Orçamento Familiar Neon</h4>
       Aplicação web para controle de finanças e orçamento familiar, com banco de dados serverless, autenticação e sessões seguras com JOSE e leitor de extratos e comprovantes bancários em PDF.<br/><br/>
       <b>Stack:</b> Next.js · React · TypeScript · Tailwind · Neon DB · JOSE · PDF Parse<br/><br/>
-      <a href="https://financeiro-neon-phi.vercel.app/">🔗 Ver online</a> · <a href="COLE_AQUI_LINK_DO_GITHUB_ORCAMENTO">💻 Código</a>
+      <a href="https://financeiro-neon-phi.vercel.app/">🔗 Ver online</a> · <a href="https://github.com/tobiasteles/financeiro-neon.git">💻 Código</a>
     </td>
   </tr>
 </table>
