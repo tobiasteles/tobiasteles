@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Buscando_est%C3%A1gio_em_desenvolvimento-00E599?style=for-the-badge" alt="Buscando estágio" />
+  <img src="https://img.shields.io/badge/Status-Aberto_a_novas_oportunidades-00E599?style=for-the-badge" alt="Aberto a novas oportunidades" />
 </p>
 
 <p align="center">
@@ -19,13 +19,13 @@
 
 ### 🚀 Sobre mim
 
-Desenvolvo aplicações web completas, do banco de dados à interface, com foco em **JavaScript/TypeScript** e arquiteturas **serverless**. Desde 2024 construo e publico projetos reais, incluindo um ecossistema educacional gamificado com e-commerce para o projeto **Edukhan**.
+Desenvolvo aplicações web completas, do banco de dados à interface, com foco em **JavaScript/TypeScript** e arquiteturas **serverless**. Desde 2024 construo e publico projetos reais, incluindo sistemas de avaliação, gamificação e e-commerce para a ONG **Edukhan**.
 
-Minha formação em Física (UnB) me deu base analítica para resolver problemas com método, e agora estou buscando meu primeiro **estágio em desenvolvimento de software** para trabalhar em equipe, aprender com quem tem mais experiência e entregar soluções de qualidade.
+Minha formação em Física (UnB) me deu base analítica para resolver problemas com método. Estou aberto a novas oportunidades em desenvolvimento de software, principalmente em equipes onde eu possa aprender e contribuir com entregas de qualidade.
 
-- 🔭 **Trabalhando agora em:** plataforma educacional gamificada com Next.js, TypeScript, Drizzle ORM e Neon DB
+- 🔭 **Trabalhando agora em:** ecossistema educacional gamificado com Next.js, TypeScript, Drizzle ORM e Neon DB
 - 🎓 **Estudando:** Análise e Desenvolvimento de Sistemas (UNINTER)
-- 🧪 **Explorando:** automação com Playwright, Canvas/WebGL e jogos 2D no navegador
+- 🧪 **Explorando:** automação com Playwright, Canvas/WebGL e integração com IA (Google GenAI SDK)
 
 ---
 
@@ -51,6 +51,7 @@ Minha formação em Física (UnB) me deu base analítica para resolver problemas
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/)
 [![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)](https://zod.dev/)
+[![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)](https://clerk.com/)
 [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
@@ -58,26 +59,73 @@ Minha formação em Física (UnB) me deu base analítica para resolver problemas
 
 ### 🏗️ Projetos em destaque
 
-#### 🎯 [Banco de Pontos Edukhan](https://bancodepontosedukhan.netlify.app/)
-Sistema de gamificação em que professores cadastram alunos, registram pontuações por atividade e gerenciam a troca de pontos por prêmios, com controle por unidade.
-**Stack:** Next.js · TypeScript · Drizzle ORM · Neon DB · Tailwind
+<!--
+  COMO EDITAR:
+  - Procure por "COLE_AQUI" e troque pelo link correspondente.
+  - Cada projeto tem: imagem (src="..."), link do site e link do GitHub.
+-->
 
-#### 🛍️ [Edukhan E-commerce](https://github.com/tobiasteles/ecommerce-store-edukhan)
-Loja virtual criada para arrecadar fundos para iniciativas educacionais, com catálogo com filtros, carrinho persistente, fluxo de checkout e painel administrativo (CRUD de produtos, estoque, pedidos e banners).
-**Stack:** Next.js · TypeScript · Prisma · PostgreSQL · NextAuth · Tailwind
+<table>
+  <tr>
+    <td width="300" align="center">
+      <a href="https://prova.edukhan.ong.br/">
+        <img src="COLE_AQUI_LINK_DA_IMAGEM_EDUKHAN_AVALIACOES" alt="Edukhan Avaliações" width="280" />
+      </a>
+    </td>
+    <td>
+      <h4>📝 Edukhan Avaliações</h4>
+      Sistema web para gestão e aplicação de avaliações educacionais da ONG Edukhan, com autenticação via Clerk, painel administrativo com React Admin e formulários com validação rigorosa.<br/><br/>
+      <b>Stack:</b> Next.js · React · TypeScript · Tailwind · Clerk · Drizzle ORM · Neon DB · React Admin · Zod · React Hook Form<br/><br/>
+      <a href="https://prova.edukhan.ong.br/">🔗 Ver online</a> · <a href="COLE_AQUI_LINK_DO_GITHUB_EDUKHAN_AVALIACOES">💻 Código</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="300" align="center">
+      <a href="https://miravita-three.vercel.app/">
+        <img src="https://miravita-three.vercel.app/avatars/class_fisica_03.png" alt="Miravita" width="280" />
+      </a>
+    </td>
+    <td>
+      <h4>🎮 Miravita</h4>
+      MMORPG jogável no navegador que integra elementos pedagógicos a um universo de fantasia, com classes inspiradas em disciplinas escolares, itens e hierarquias baseados na tabela periódica e inteligência artificial integrada.<br/><br/>
+      <b>Stack:</b> Next.js · React · TypeScript · Tailwind · Clerk · Drizzle ORM · Neon DB · Google GenAI SDK<br/><br/>
+      <a href="https://miravita-three.vercel.app/">🔗 Ver online</a> · <a href="COLE_AQUI_LINK_DO_GITHUB_MIRAVITA">💻 Código</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="300" align="center">
+      <a href="https://ecobazar-drab.vercel.app/">
+        <img src="https://ecobazar-drab.vercel.app/logo.jpeg" alt="EcoBazar" width="280" />
+      </a>
+    </td>
+    <td>
+      <h4>🌱 EcoBazar</h4>
+      Plataforma de e-commerce e comércio sustentável, com gestão de catálogo de produtos, visualização analítica de dados com gráficos interativos e banco de dados serverless.<br/><br/>
+      <b>Stack:</b> Next.js · React · TypeScript · Tailwind · Drizzle ORM · Neon DB · TanStack Query · Recharts · Shadcn UI<br/><br/>
+      <a href="https://ecobazar-drab.vercel.app/">🔗 Ver online</a> · <a href="COLE_AQUI_LINK_DO_GITHUB_ECOBAZAR">💻 Código</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="300" align="center">
+      <a href="https://financeiro-neon-phi.vercel.app/">
+        <img src="https://i.imgur.com/MGjUA1a.png" alt="Orçamento Familiar Neon" width="280" />
+      </a>
+    </td>
+    <td>
+      <h4>💰 Orçamento Familiar Neon</h4>
+      Aplicação web para controle de finanças e orçamento familiar, com banco de dados serverless, autenticação e sessões seguras com JOSE e leitor de extratos e comprovantes bancários em PDF.<br/><br/>
+      <b>Stack:</b> Next.js · React · TypeScript · Tailwind · Neon DB · JOSE · PDF Parse<br/><br/>
+      <a href="https://financeiro-neon-phi.vercel.app/">🔗 Ver online</a> · <a href="COLE_AQUI_LINK_DO_GITHUB_ORCAMENTO">💻 Código</a>
+    </td>
+  </tr>
+</table>
 
-#### 💻 [Portfólio interativo em terminal](https://tobiasteles.vercel.app)
-Portfólio em formato de linha de comando, com painel administrativo, autenticação JWT e CRUD.
-**Stack:** Next.js · TypeScript · Tailwind · Drizzle ORM · Neon DB
-
-#### 📚 [Reforço+](https://reforcomais.netlify.app/)
-Site para aulas de reforço escolar, com apresentação das matérias, formulário de agendamento e contato direto.
-**Stack:** HTML · CSS · JavaScript · Netlify
-
-#### 🎮 Outros projetos
-- **Miravita:** jogo interativo em tempo real no navegador (Next.js, TypeScript, Canvas, WebGL)
-- **MentorPlay:** plataforma de compartilhamento de vídeos (Next.js, Firebase)
-- **Financeiro Neon:** gerenciador financeiro com PostgreSQL serverless (Next.js, Neon DB)
+#### Mais projetos
+- 🎯 [Banco de Pontos Edukhan](https://bancodepontosedukhan.netlify.app/): gamificação em que professores registram pontuações e trocas de pontos por prêmios, por unidade (Next.js, Drizzle ORM, Neon DB)
+- 🛍️ [Edukhan E-commerce](https://github.com/tobiasteles/ecommerce-store-edukhan): loja para arrecadar fundos para a ONG, com painel administrativo completo (Next.js, Prisma, PostgreSQL, NextAuth)
+- 💻 [Portfólio interativo em terminal](https://tobiasteles.vercel.app): portfólio em linha de comando com painel admin e autenticação JWT (Next.js, Drizzle ORM, Neon DB)
+- 📚 [Reforço+](https://reforcomais.netlify.app/): site de aulas de reforço com formulário de agendamento (HTML, CSS, JavaScript)
+- 📺 **MentorPlay:** plataforma de compartilhamento de vídeos (Next.js, Firebase)
 
 ---
 
@@ -85,8 +133,7 @@ Site para aulas de reforço escolar, com apresentação das matérias, formulár
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tobiasteles&show_icons=true&theme=dark&hide_border=true&title_color=06B6D4&icon_color=06B6D4&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tobiasteles&layout=compact&theme=dark&hide_border=true&title_color=06B6D4&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tobiasteles&show_icons=true&theme=dark&hide_border=true&title_color=06B6D4&icon_color=06B6D4&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="60%" />
 
 </div>
 
@@ -99,5 +146,5 @@ Site para aulas de reforço escolar, com apresentação das matérias, formulár
 ---
 
 <p align="center">
-  Aberto a oportunidades de estágio em desenvolvimento de software. Vamos conversar! 🤝
+  Aberto a novas oportunidades e a boas conversas sobre tecnologia. 🤝
 </p>
