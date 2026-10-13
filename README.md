@@ -135,7 +135,7 @@ Minha formação em Física (UnB) me deu base analítica para resolver problemas
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tobiasteles&show_icons=true&theme=dark&hide_border=true&title_color=06B6D4&icon_color=06B6D4&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="60%" />
 
-   <img src="https://raw.githubusercontent.com/tobiasteles/tobiasteles/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Linguagens mais usadas" width="48%" />
+   <img src="https://raw.githubusercontent.com/tobiasteles/tobiasteles/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Linguagens mais usadas" width="60%" />
 
 </div>
 
