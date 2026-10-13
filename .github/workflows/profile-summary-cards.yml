@@ -15,6 +15,14 @@ jobs:
     runs-on: ubuntu-latest
     name: generate
     steps:
+      - uses: actions/checkout@v4
+
+      # Adicione estas duas linhas para configurar a identidade do Git
+      - name: Configure Git User
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.io"
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
