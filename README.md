@@ -1,8 +1,13 @@
 <h1 align="center">Olá, eu sou o Tobias Teles 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor Full-Stack | React · Next.js · TypeScript · Node.js</b><br/>
-  Estudante de Análise e Desenvolvimento de Sistemas · Brasília, DF
+  <a href="https://github.com/tobiasteles">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1400&color=00E599&center=true&vCenter=true&width=720&lines=Desenvolvedor+Full-Stack;Next.js+%7C+TypeScript+%7C+Drizzle+%7C+Neon;Projetos+reais+no+ar+para+a+ONG+Edukhan;Aberto+a+novas+oportunidades" alt="Desenvolvedor Full-Stack | Next.js, TypeScript, Drizzle, Neon | Aberto a novas oportunidades" />
+  </a>
+</p>
+
+<p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas · Formação em Física (UnB) · Brasília, DF
 </p>
 
 <p align="center">
@@ -15,6 +20,26 @@
   <a href="mailto:tobias.teles@gmail.com"><img src="https://img.shields.io/badge/Email-tobias.teles@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+<p align="center">
+  <b>💻 Meu portfólio é um terminal.</b> <a href="https://tobiasteles.vercel.app">Acesse</a> e digite <code>projects</code> ou <code>resume</code>.
+</p>
+
+---
+
+### 👨‍💻 Em resumo
+
+```ts
+const tobias = {
+  funcao: "Desenvolvedor Full-Stack",
+  stack: ["Next.js", "React", "TypeScript", "Node.js", "PostgreSQL"],
+  gosto: ["serverless", "autenticação", "dashboards", "integração com IA"],
+  formacao: ["Física (UnB)", "Análise e Desenvolvimento de Sistemas (UNINTER, cursando)"],
+  local: "Brasília, DF",
+  status: "aberto a novas oportunidades",
+  contato: "tobias.teles@gmail.com",
+};
+```
+
 ---
 
 ### 🚀 Sobre mim
@@ -26,6 +51,16 @@ Minha formação em Física (UnB) me deu base analítica para resolver problemas
 - 🔭 **Trabalhando agora em:** ecossistema educacional gamificado com Next.js, TypeScript, Drizzle ORM e Neon DB
 - 🎓 **Estudando:** Análise e Desenvolvimento de Sistemas (UNINTER)
 - 🧪 **Explorando:** automação com Playwright, Canvas/WebGL e integração com IA (Google GenAI SDK)
+
+---
+
+### 🎯 O que eu entrego
+
+- **Aplicações completas, do zero ao deploy:** banco, back-end, interface e publicação na Vercel
+- **Autenticação e segurança:** Clerk, sessões JWT com JOSE e validação rigorosa com Zod
+- **Painéis administrativos e dados:** React Admin, gráficos interativos com Recharts e leitura de PDFs
+- **Pagamentos e integrações:** Stripe, Firebase e Google GenAI SDK
+- **Software em uso real:** sistemas que atendem a ONG Edukhan, não só projetos de estudo
 
 ---
 
@@ -58,12 +93,6 @@ Minha formação em Física (UnB) me deu base analítica para resolver problemas
 ---
 
 ### 🏗️ Projetos em destaque
-
-<!--
-  COMO EDITAR:
-  - Procure por "COLE_AQUI" e troque pelo link correspondente.
-  - Cada projeto tem: imagem (src="..."), link do site e link do GitHub.
--->
 
 <table>
   <tr>
@@ -135,7 +164,16 @@ Minha formação em Física (UnB) me deu base analítica para resolver problemas
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tobiasteles&show_icons=true&theme=dark&hide_border=true&title_color=06B6D4&icon_color=06B6D4&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="60%" />
 
-   <img src="https://raw.githubusercontent.com/tobiasteles/tobiasteles/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Linguagens mais usadas" width="60%" />
+<img src="https://raw.githubusercontent.com/tobiasteles/tobiasteles/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Linguagens mais usadas" width="60%" />
+
+<br/><br/>
+
+<!-- Cobrinha das contribuições: precisa do workflow .github/workflows/snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasteles/tobiasteles/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasteles/tobiasteles/output/github-contribution-grid-snake.svg" />
+  <img alt="Gráfico de contribuições com a cobrinha" src="https://raw.githubusercontent.com/tobiasteles/tobiasteles/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -147,6 +185,12 @@ Minha formação em Física (UnB) me deu base analítica para resolver problemas
 
 ---
 
+### 🤝 Vamos conversar?
+
+Se você está montando um time e procura alguém que entregue, aprenda rápido e já tenha software no ar, vou adorar trocar uma ideia.
+
 <p align="center">
-  Aberto a novas oportunidades e a boas conversas sobre tecnologia. 🤝
+  <a href="mailto:tobias.teles@gmail.com"><img src="https://img.shields.io/badge/Me_chame_por_e--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Me chame por e-mail" /></a>
+  <a href="https://www.linkedin.com/in/tobias-teles/"><img src="https://img.shields.io/badge/Conecte--se_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conecte-se no LinkedIn" /></a>
+  <a href="https://tobiasteles.vercel.app"><img src="https://img.shields.io/badge/Ver_meu_portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver meu portfólio" /></a>
 </p>
