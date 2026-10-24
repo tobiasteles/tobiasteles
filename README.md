@@ -15,13 +15,13 @@
 </p>
 
 <p align="center">
-  <a href="https://tobiasteles.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-tobiasteles.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://tobiasteles.dev"><img src="https://img.shields.io/badge/Portf%C3%B3lio-tobiasteles.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
   <a href="https://www.linkedin.com/in/tobias-teles/"><img src="https://img.shields.io/badge/LinkedIn-Tobias_Teles-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:tobias.teles@gmail.com"><img src="https://img.shields.io/badge/Email-tobias.teles@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <b>💻 Meu portfólio é um terminal.</b> <a href="https://tobiasteles.vercel.app">Acesse</a> e digite <code>projects</code> ou <code>resume</code>.
+  <b>💻 Meu portfólio é um terminal.</b> <a href="https://tobiasteles.dev">Acesse</a> e digite <code>projects</code> ou <code>resume</code>.
 </p>
 
 ---
@@ -152,7 +152,7 @@ Minha formação em Física (UnB) me deu base analítica para resolver problemas
 #### Mais projetos
 - 🎯 [Banco de Pontos Edukhan](https://bancodepontosedukhan.netlify.app/): gamificação em que professores registram pontuações e trocas de pontos por prêmios, por unidade (Next.js, Drizzle ORM, Neon DB)
 - 🛍️ [Edukhan E-commerce](https://github.com/tobiasteles/ecommerce-store-edukhan): loja para arrecadar fundos para a ONG, com painel administrativo completo (Next.js, Prisma, PostgreSQL, NextAuth)
-- 💻 [Portfólio interativo em terminal](https://tobiasteles.vercel.app): portfólio em linha de comando com painel admin e autenticação JWT (Next.js, Drizzle ORM, Neon DB)
+- 💻 [Portfólio interativo em terminal](https://tobiasteles.dev): portfólio em linha de comando com painel admin e autenticação JWT (Next.js, Drizzle ORM, Neon DB)
 - 📚 [Reforço+](https://reforcomais.netlify.app/): site de aulas de reforço com formulário de agendamento (HTML, CSS, JavaScript)
 - 📺 **MentorPlay:** plataforma de compartilhamento de vídeos (Next.js, Firebase)
 
@@ -192,5 +192,5 @@ Se você está montando um time e procura alguém que entregue, aprenda rápido 
 <p align="center">
   <a href="mailto:tobias.teles@gmail.com"><img src="https://img.shields.io/badge/Me_chame_por_e--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Me chame por e-mail" /></a>
   <a href="https://www.linkedin.com/in/tobias-teles/"><img src="https://img.shields.io/badge/Conecte--se_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conecte-se no LinkedIn" /></a>
-  <a href="https://tobiasteles.vercel.app"><img src="https://img.shields.io/badge/Ver_meu_portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver meu portfólio" /></a>
+  <a href="https://tobiasteles.dev"><img src="https://img.shields.io/badge/Ver_meu_portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver meu portfólio" /></a>
 </p>
