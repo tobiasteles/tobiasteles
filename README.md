@@ -1,9 +1,17 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Tobias Teles, rumo ao horizonte de eventos" width="100%" />
+</p>
+
 <h1 align="center">Olá, eu sou o Tobias Teles 👋</h1>
 
 <p align="center">
   <a href="https://github.com/tobiasteles">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1400&color=FF9A3C&center=true&vCenter=true&width=720&lines=Desenvolvedor+Full-Stack;Next.js+%7C+TypeScript+%7C+Drizzle+%7C+Neon;Projetos+reais+no+ar+para+a+ONG+Edukhan;Aberto+a+novas+oportunidades" alt="Desenvolvedor Full-Stack | Next.js, TypeScript, Drizzle, Neon" />
   </a>
+</p>
+
+<p align="center">
+  <code>// PORTFÓLIO · RUMO AO HORIZONTE DE EVENTOS</code>
 </p>
 
 <p align="center">
@@ -174,10 +182,6 @@ Minha formação em Física (UnB) me deu base analítica para resolver problemas
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasteles/tobiasteles/output/github-contribution-grid-snake.svg?v=2" />
   <img alt="Gráfico de contribuições com a cobrinha" src="https://raw.githubusercontent.com/tobiasteles/tobiasteles/output/github-contribution-grid-snake.svg?v=2" />
 </picture>
-
-<p align="center">
-  <code>// PORTFÓLIO · RUMO AO HORIZONTE DE EVENTOS</code>
-</p>
 
 </div>
 
