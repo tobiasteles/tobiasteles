@@ -176,6 +176,10 @@ Minha formação em Física (UnB) me deu base analítica para resolver problemas
 
 <br/><br/>
 
+<img src="https://raw.githubusercontent.com/tobiasteles/tobiasteles/main/profile-3d-contrib/profile-night-view.svg" alt="Contribuições em 3D" width="100%" />
+
+<br/><br/>
+
 <!-- Cobrinha das contribuições: precisa do workflow .github/workflows/snake.yml -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasteles/tobiasteles/output/github-contribution-grid-snake-dark.svg?v=2" />
