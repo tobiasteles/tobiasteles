@@ -67,12 +67,12 @@ Minha formação em Física (UnB) me deu base analítica para resolver problemas
 ### 🛠 Tech Stack
 
 #### Front-end
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)](https://tanstack.com/query)
+[![Next.js](https://img.shields.io/badge/Next.js-0B0B0F?style=for-the-badge&logo=nextdotjs&logoColor=FF9A3C)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-0B0B0F?style=for-the-badge&logo=react&logoColor=FF9A3C)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-0B0B0F?style=for-the-badge&logo=typescript&logoColor=FF9A3C)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-0B0B0F?style=for-the-badge&logo=javascript&logoColor=FF9A3C)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0B0B0F?style=for-the-badge&logo=tailwindcss&logoColor=FF9A3C)](https://tailwindcss.com/)
+[![TanStack Query](https://img.shields.io/badge/TanStack_Query-0B0B0F?style=for-the-badge&logo=reactquery&logoColor=FF9A3C)](https://tanstack.com/query)
 
 #### Back-end e banco de dados
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
