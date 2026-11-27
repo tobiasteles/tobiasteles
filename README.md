@@ -15,9 +15,9 @@
 </p>
 
 <p align="center">
-  <a href="https://tobiasteles.dev"><img src="https://img.shields.io/badge/Portf%C3%B3lio-tobiasteles.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
-  <a href="https://www.linkedin.com/in/tobias-teles/"><img src="https://img.shields.io/badge/LinkedIn-Tobias_Teles-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:tobias.teles@gmail.com"><img src="https://img.shields.io/badge/Email-tobias.teles@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://tobiasteles.dev"><img src="https://img.shields.io/badge/Portf%C3%B3lio-tobiasteles.dev-FF9A3C?style=for-the-badge&logo=vercel&logoColor=FF9A3C&labelColor=0B0B0F&color=0B0B0F" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/tobias-teles/"><img src="https://img.shields.io/badge/LinkedIn-Tobias_Teles-FF9A3C?style=for-the-badge&logo=linkedin&logoColor=FF9A3C&labelColor=0B0B0F&color=0B0B0F" alt="LinkedIn" /></a>
+  <a href="mailto:tobias.teles@gmail.com"><img src="https://img.shields.io/badge/Email-tobias.teles@gmail.com-FF9A3C?style=for-the-badge&logo=gmail&logoColor=FF9A3C&labelColor=0B0B0F&color=0B0B0F" alt="Email" /></a>
 </p>
 
 <p align="center">
@@ -190,7 +190,7 @@ Minha formação em Física (UnB) me deu base analítica para resolver problemas
 Se você está montando um time e procura alguém que entregue, aprenda rápido e já tenha software no ar, vou adorar trocar uma ideia.
 
 <p align="center">
-  <a href="mailto:tobias.teles@gmail.com"><img src="https://img.shields.io/badge/Me_chame_por_e--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Me chame por e-mail" /></a>
-  <a href="https://www.linkedin.com/in/tobias-teles/"><img src="https://img.shields.io/badge/Conecte--se_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conecte-se no LinkedIn" /></a>
-  <a href="https://tobiasteles.dev"><img src="https://img.shields.io/badge/Ver_meu_portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver meu portfólio" /></a>
+  <a href="mailto:tobias.teles@gmail.com"><img src="https://img.shields.io/badge/Me_chame_por_e--mail-0B0B0F?style=for-the-badge&logo=gmail&logoColor=FF9A3C" alt="Me chame por e-mail" /></a>
+  <a href="https://www.linkedin.com/in/tobias-teles/"><img src="https://img.shields.io/badge/Conecte--se_no_LinkedIn-0B0B0F?style=for-the-badge&logo=linkedin&logoColor=FF9A3C" alt="Conecte-se no LinkedIn" /></a>
+  <a href="https://tobiasteles.dev"><img src="https://img.shields.io/badge/Ver_meu_portf%C3%B3lio-0B0B0F?style=for-the-badge&logo=vercel&logoColor=FF9A3C" alt="Ver meu portfólio" /></a>
 </p>
