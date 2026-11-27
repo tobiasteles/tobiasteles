@@ -176,7 +176,7 @@ Minha formação em Física (UnB) me deu base analítica para resolver problemas
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/tobiasteles/tobiasteles/main/profile-3d-contrib/profile-night-view.svg" alt="Contribuições em 3D" width="100%" />
+<img src="https://raw.githubusercontent.com/tobiasteles/tobiasteles/main/profile-3d-contrib/profile-gitblock.svg" alt="Contribuições em 3D" width="100%" />
 
 <br/><br/>
 
