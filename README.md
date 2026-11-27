@@ -175,6 +175,10 @@ Minha formação em Física (UnB) me deu base analítica para resolver problemas
   <img alt="Gráfico de contribuições com a cobrinha" src="https://raw.githubusercontent.com/tobiasteles/tobiasteles/output/github-contribution-grid-snake.svg?v=2" />
 </picture>
 
+<p align="center">
+  <code>// PORTFÓLIO · RUMO AO HORIZONTE DE EVENTOS</code>
+</p>
+
 </div>
 
 ---
