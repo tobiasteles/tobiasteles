@@ -162,9 +162,9 @@ Minha formação em Física (UnB) me deu base analítica para resolver problemas
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tobiasteles/tobiasteles/main/profile-summary-card-output/slateorange/3-stats.svg" alt="GitHub Stats" width="60%" />
+<img src="https://raw.githubusercontent.com/tobiasteles/tobiasteles/main/profile-summary-card-output/slateorange/3-stats.svg" alt="GitHub Stats" width="30%" />
 
-<img src="https://raw.githubusercontent.com/tobiasteles/tobiasteles/main/profile-summary-card-output/slateorange/2-most-commit-language.svg" alt="Linguagens mais usadas" width="60%" />
+<img src="https://raw.githubusercontent.com/tobiasteles/tobiasteles/main/profile-summary-card-output/slateorange/2-most-commit-language.svg" alt="Linguagens mais usadas" width="30%" />
 
 <br/><br/>
 
