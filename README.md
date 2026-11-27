@@ -170,9 +170,9 @@ Minha formação em Física (UnB) me deu base analítica para resolver problemas
 
 <!-- Cobrinha das contribuições: precisa do workflow .github/workflows/snake.yml -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasteles/tobiasteles/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasteles/tobiasteles/output/github-contribution-grid-snake.svg" />
-  <img alt="Gráfico de contribuições com a cobrinha" src="https://raw.githubusercontent.com/tobiasteles/tobiasteles/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasteles/tobiasteles/output/github-contribution-grid-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasteles/tobiasteles/output/github-contribution-grid-snake.svg?v=2" />
+  <img alt="Gráfico de contribuições com a cobrinha" src="https://raw.githubusercontent.com/tobiasteles/tobiasteles/output/github-contribution-grid-snake.svg?v=2" />
 </picture>
 
 </div>
