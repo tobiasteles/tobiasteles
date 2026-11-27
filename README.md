@@ -75,20 +75,20 @@ Minha formação em Física (UnB) me deu base analítica para resolver problemas
 [![TanStack Query](https://img.shields.io/badge/TanStack_Query-0B0B0F?style=for-the-badge&logo=reactquery&logoColor=FF9A3C)](https://tanstack.com/query)
 
 #### Back-end e banco de dados
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Neon](https://img.shields.io/badge/Neon_DB-00E599?style=for-the-badge&logo=neon&logoColor=black)](https://neon.tech/)
-[![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)](https://orm.drizzle.team/)
-[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-0B0B0F?style=for-the-badge&logo=nodedotjs&logoColor=FF9A3C)](https://nodejs.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B0B0F?style=for-the-badge&logo=postgresql&logoColor=FF9A3C)](https://www.postgresql.org/)
+[![Neon](https://img.shields.io/badge/Neon_DB-0B0B0F?style=for-the-badge&logo=neon&logoColor=FF9A3C)](https://neon.tech/)
+[![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-0B0B0F?style=for-the-badge&logo=drizzle&logoColor=FF9A3C)](https://orm.drizzle.team/)
+[![Prisma](https://img.shields.io/badge/Prisma-0B0B0F?style=for-the-badge&logo=prisma&logoColor=FF9A3C)](https://www.prisma.io/)
+[![Firebase](https://img.shields.io/badge/Firebase-0B0B0F?style=for-the-badge&logo=firebase&logoColor=FF9A3C)](https://firebase.google.com/)
 
 #### Ferramentas e integrações
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/)
-[![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)](https://zod.dev/)
-[![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)](https://clerk.com/)
-[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Git](https://img.shields.io/badge/Git-0B0B0F?style=for-the-badge&logo=git&logoColor=FF9A3C)](https://git-scm.com/)
+[![Stripe](https://img.shields.io/badge/Stripe-0B0B0F?style=for-the-badge&logo=stripe&logoColor=FF9A3C)](https://stripe.com/)
+[![Zod](https://img.shields.io/badge/Zod-0B0B0F?style=for-the-badge&logo=zod&logoColor=FF9A3C)](https://zod.dev/)
+[![Clerk](https://img.shields.io/badge/Clerk-0B0B0F?style=for-the-badge&logo=clerk&logoColor=FF9A3C)](https://clerk.com/)
+[![Playwright](https://img.shields.io/badge/Playwright-0B0B0F?style=for-the-badge&logo=playwright&logoColor=FF9A3C)](https://playwright.dev/)
+[![Vercel](https://img.shields.io/badge/Vercel-0B0B0F?style=for-the-badge&logo=vercel&logoColor=FF9A3C)](https://vercel.com/)
 
 ---
 
