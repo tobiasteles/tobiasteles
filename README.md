@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/tobiasteles">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1400&color=00E599&center=true&vCenter=true&width=720&lines=Desenvolvedor+Full-Stack;Next.js+%7C+TypeScript+%7C+Drizzle+%7C+Neon;Projetos+reais+no+ar+para+a+ONG+Edukhan;Aberto+a+novas+oportunidades" alt="Desenvolvedor Full-Stack | Next.js, TypeScript, Drizzle, Neon | Aberto a novas oportunidades" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1400&color=FF9A3C&center=true&vCenter=true&width=720&lines=Desenvolvedor+Full-Stack;Next.js+%7C+TypeScript+%7C+Drizzle+%7C+Neon;Projetos+reais+no+ar+para+a+ONG+Edukhan;Aberto+a+novas+oportunidades" alt="Desenvolvedor Full-Stack | Next.js, TypeScript, Drizzle, Neon" />
   </a>
 </p>
 
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Aberto_a_novas_oportunidades-00E599?style=for-the-badge" alt="Aberto a novas oportunidades" />
+  <img src="https://img.shields.io/badge/Status-Aberto_a_novas_oportunidades-FF9A3C?style=for-the-badge&labelColor=0B0B0F&color=FF9A3C" alt="Aberto a novas oportunidades" />
 </p>
 
 <p align="center">
