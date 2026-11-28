@@ -23,3 +23,4 @@ jobs:
           plugin_languages_ignored: html
           plugin_languages_limit: 8
           plugin_languages_details: bytes-size, percentage
+          plugin_languages_colors: 0:#FF9A3C, 1:#d9741a, 2:#ffc27a, 3:#c2590f, 4:#8a4510, 5:#ffe0b8, 6:#4a2a0c, 7:#a35a1f
