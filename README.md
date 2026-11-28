@@ -176,7 +176,7 @@ Minha formação em Física (UnB) me deu base analítica para resolver problemas
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/tobiasteles/tobiasteles/main/metrics-languages.svg?v=1" alt="Linguagens mais usadas (detalhado)" width="60%" />
+<img src="https://raw.githubusercontent.com/tobiasteles/tobiasteles/main/metrics-languages.svg?v=3" alt="Linguagens mais usadas (detalhado)" width="60%" />
 
 <br/><br/>
 
