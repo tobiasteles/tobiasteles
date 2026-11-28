@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Tobias Teles, rumo ao horizonte de eventos" width="100%" />
+  <img src="./assets/banner.gif" alt="Tobias Teles, rumo ao horizonte de eventos" width="100%" />
 </p>
 
 <h1 align="center">Olá, eu sou o Tobias Teles 👋</h1>
